@@ -1,0 +1,37 @@
+{
+  "joukkue": "Arsenal FC",
+  "kausi": "2025/2026",
+  "pelaajat": [
+    { "nimi": "David Raya", "pelipaikka": "Maalivahti", "numero": 1 },
+    { "nimi": "Kepa Arrizabalaga", "pelipaikka": "Maalivahti", "numero": 13 },
+    { "nimi": "Tommy Setford", "pelipaikka": "Maalivahti", "numero": 31 },
+    { "nimi": "William Saliba", "pelipaikka": "Puolustaja", "numero": 2 },
+    { "nimi": "Cristhian Mosquera", "pelipaikka": "Puolustaja", "numero": 3 },
+    { "nimi": "Ben White", "pelipaikka": "Puolustaja", "numero": 4 },
+    { "nimi": "Piero Hincapié", "pelipaikka": "Puolustaja", "numero": 5 },
+    { "nimi": "Gabriel", "pelipaikka": "Puolustaja", "numero": 6 },
+    { "nimi": "Jurrien Timber", "pelipaikka": "Puolustaja", "numero": 12 },
+    { "nimi": "Jakub Kiwior", "pelipaikka": "Puolustaja", "numero": 15 },
+    { "nimi": "Oleksandr Zinchenko", "pelipaikka": "Puolustaja", "numero": 17 },
+    { "nimi": "Riccardo Calafiori", "pelipaikka": "Puolustaja", "numero": 33 },
+    { "nimi": "Myles Lewis-Skelly", "pelipaikka": "Puolustaja", "numero": 49 },
+    { "nimi": "Martin Ødegaard", "pelipaikka": "Keskikenttä", "numero": 8 },
+    { "nimi": "Christian Nørgaard", "pelipaikka": "Keskikenttä", "numero": 16 },
+    { "nimi": "Eberechi Eze", "pelipaikka": "Keskikenttä", "numero": 10 },
+    { "nimi": "Mikel Merino", "pelipaikka": "Keskikenttä", "numero": 23 },
+    { "nimi": "Martin Zubimendi", "pelipaikka": "Keskikenttä", "numero": 36 },
+    { "nimi": "Declan Rice", "pelipaikka": "Keskikenttä", "numero": 41 },
+    { "nimi": "Fabio Vieira", "pelipaikka": "Keskikenttä", "numero": 21 },
+    { "nimi": "Albert Sambi Lokonga", "pelipaikka": "Keskikenttä", "numero": 28 },
+    { "nimi": "Bukayo Saka", "pelipaikka": "Hyökkääjä", "numero": 7 },
+    { "nimi": "Gabriel Jesus", "pelipaikka": "Hyökkääjä", "numero": 9 },
+    { "nimi": "Gabriel Martinelli", "pelipaikka": "Hyökkääjä", "numero": 11 },
+    { "nimi": "Viktor Gyökeres", "pelipaikka": "Hyökkääjä", "numero": 14 },
+    { "nimi": "Leandro Trossard", "pelipaikka": "Hyökkääjä", "numero": 19 },
+    { "nimi": "Noni Madueke", "pelipaikka": "Hyökkääjä", "numero": 20 },
+    { "nimi": "Ethan Nwaneri", "pelipaikka": "Hyökkääjä", "numero": 22 },
+    { "nimi": "Reiss Nelson", "pelipaikka": "Hyökkääjä", "numero": 24 },
+    { "nimi": "Kai Havertz", "pelipaikka": "Hyökkääjä", "numero": 29 }
+  ]
+}
+
